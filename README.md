@@ -21,3 +21,4 @@ This repository (OKR of GeneStat team) helps us focus on scientific research and
 ## Tracking Log
 
 * Week 0 (2021/10/31 - 2021/11/6): GitHub organization created and ready to go.
+* Week 2   Website is creating for team
