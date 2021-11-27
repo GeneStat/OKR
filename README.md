@@ -14,11 +14,14 @@ This repository (OKR of GeneStat team) helps us focus on scientific research and
 
 ## Recent Plan
 
-* Read at least ten related papers every month.
-* Find at least three topics to study in the next two months (before Dec 31, 2021), and then choose one to focus on.
+* Read at least **ten related papers every month**.
+* Finish the first project (precisionFDA brain cancer challenge) before Jan 31, 2022.
+* Find next topic or project (scientific research or software development) before Apr 30, 2022, and then focus on it.
 * Collect data, analyze, and prepare a thesis next year (before Dec 31, 2022).
 
 ## Tracking Log
 
-* Week 0 (2021/10/31 - 2021/11/6): GitHub organization created and ready to go.
-* Week 2   Website is creating for team
+* Week 0 (2021/10/31 - 2021/11/6): [GitHub organization](https://github.com/GeneStat/) created and ready to go.
+* Week 1 (2021/11/7 - 2021/11/13): Add papers and start [literature review](https://github.com/GeneStat/Literature-Review).
+* Week 2 (2021/11/14 - 2021/11/20): [Website portal](https://genestat.github.io/) is created for team.
+* Week 3 (2021/11/21 - 2021/11/27): Start the first project of [precisionFDA brain cancer challenge](https://github.com/GeneStat/pfda-brain-cancer-challenge).
